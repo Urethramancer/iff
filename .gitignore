@@ -1,0 +1,8 @@
+.vscode/
+CMakeFiles/
+bin/
+include/config.h
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+test.iff
