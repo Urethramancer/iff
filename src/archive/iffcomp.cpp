@@ -2,8 +2,7 @@
 //  iffcomp.cpp
 //	IFF compressor.
 //
-//  Created by Ronny Bangsund on 04/11/2012.
-//  Copyright (c) 2012 Neural Short-Circuit. All rights reserved.
+//  Copyright (c) 2012-2020 Ronny Bangsund. All rights reserved.
 //
 
 #include "iff.h"

@@ -1,5 +1,5 @@
 cmake_minimum_required (VERSION 3.17)
-project (IFF VERSION 0.2.0)
+project (IFF VERSION 0.3.0)
 include_directories("include")
 configure_file(include/config.h.in include/config.h)
 

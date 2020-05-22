@@ -2,8 +2,7 @@
 //  chunks.cpp
 //  iff
 //
-//  Created by Ronny Bangsund on 29/10/2012.
-//  Copyright (c) 2012 Neural Short-Circuit. All rights reserved.
+//  Copyright (c) 2012-2020 Ronny Bangsund. All rights reserved.
 //
 
 #include <stdio.h>
